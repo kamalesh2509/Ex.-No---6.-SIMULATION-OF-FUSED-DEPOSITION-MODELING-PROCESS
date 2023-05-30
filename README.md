@@ -16,8 +16,8 @@
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 
 ## Output:
-Step 1:
-Base:
+##Step 1:
+##Base:
 ![241382384-448c35bd-9d21-4009-b03d-bb12db610d3a](https://github.com/kamalesh2509/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120444689/c91cb4e4-121e-4682-b8ea-7f9232b16183)
 Explanation:
 In Fused Deposition Modeling (FDM), the build platform is an essential component of the 3D printer. It serves as the foundation on which the object being printed is constructed layer by layer. The build platform needs to be sturdy and properly leveled to ensure accurate and consistent printing.
