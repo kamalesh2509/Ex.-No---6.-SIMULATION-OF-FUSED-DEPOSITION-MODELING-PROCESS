@@ -1,24 +1,22 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
 
 ## DATE: 
-## AIM:
-### To simulate the Fused Deposition Modeling (FDM) process.
+AIM:
+To simulate the Fused Deposition Modeling (FDM) process.
+REQUIREMENTS:
+System - Windows 7 or higher, 1 GB RAM.
+PROCEDURE:
+STEP 1: Click on 'Base'. Base and Build Platform will be displayed on the left side of the screen.
+STEP 2: Click on 'Extruder' then extruder and extruder nozzle will be displayed.
+STEP 3: Click on 'Material Spool' then material spool will be shown.
+STEP 4: Click on 'Filament' then filament will be added.
+STEP 5: Click on 'Start Process' to begin the process.
+STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
+OUTPUT:
+Step 1:
+Base:
+image
 
-## REQUIREMENTS:
-### System - Windows 7 or higher, 1 GB RAM.
-
-## PROCEDURE:
-### STEP 1: Click on 'Base'. Base and Build Platform will be displayed on the left side of the screen.
-### STEP 2: Click on 'Extruder' then extruder and extruder nozzle will be displayed.
-### STEP 3: Click on 'Material Spool' then material spool will be shown.
-### STEP 4: Click on 'Filament' then filament will be added.
-### STEP 5: Click on 'Start Process' to begin the process.
-### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
-
-## Output:
-##Step 1:
-##Base:
-![241382384-448c35bd-9d21-4009-b03d-bb12db610d3a](https://github.com/kamalesh2509/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120444689/c91cb4e4-121e-4682-b8ea-7f9232b16183)
 Explanation:
 In Fused Deposition Modeling (FDM), the build platform is an essential component of the 3D printer. It serves as the foundation on which the object being printed is constructed layer by layer. The build platform needs to be sturdy and properly leveled to ensure accurate and consistent printing.
 
@@ -30,7 +28,8 @@ The foam base may also help with leveling the build platform by providing a soft
 
 Step 2:
 Extruder:
-![241382466-17d14ab3-51af-45e2-bdb3-43077ab6de4d](https://github.com/kamalesh2509/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120444689/61f36fa1-b820-4bd1-82aa-7c207535c4c7)
+image
+
 Explanation:
 In the Fused Deposition Modeling (FDM) process, the extrusion nozzle and extrusion head are integral parts of the 3D printer. They play a crucial role in depositing the molten filament material layer by layer to create the printed object. Here's a breakdown of their functions:
 
@@ -60,7 +59,8 @@ In some 3D printers, especially those that print with materials requiring active
 
 Step 3:
 Material Spool:
-![241382521-ad0c8318-d097-47a0-b3d7-c30ce285ff9c](https://github.com/kamalesh2509/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120444689/7f123e04-5d22-4b24-b396-d2cf95b6a694)
+image
+
 Explanation:
 In Fused Deposition Modeling (FDM) process, the "build material spool" refers to the spool or reel that holds the filament material used for printing.
 
@@ -74,6 +74,8 @@ It's important to properly handle and store the filament spools to protect them 
 
 Step 4:
 Filament:
+image
+
 Explanation:
 In the Fused Deposition Modeling (FDM) process, filament refers to the material that is used as the feedstock for 3D printing. It is a long, thin strand of thermoplastic material that is typically wound onto a spool.
 
@@ -83,8 +85,9 @@ Filament is loaded into the 3D printer's extruder assembly, where it is fed into
 
 Step 5:
 Start Process:
-Explanation:
+image
 
+Explanation:
 Start the printing process:
 Transfer the sliced file to the 3D printer. The printer will heat the nozzle to melt the filament, which will be deposited layer by layer according to the sliced file.
 
@@ -99,15 +102,16 @@ If the model has overhangs or complex geometries that require support, the print
 
 Step 6:
 Stop Process:
-![241382945-f18bd10b-7acb-45e3-8c13-2ac4a21c5baf](https://github.com/kamalesh2509/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120444689/e6f8879e-6b60-40fd-b794-834db6434de3)
+WhatsApp Image 2023-05-27 at 16 18 05
+
 Explanation:
 Cool down and remove support:
 Once the printing is complete, the model needs to cool down to ensure stability. If support structures were used, they can be removed by hand or using appropriate tools.
 
 Post-processing:
 Depending on the desired outcome, post-processing steps such as sanding, painting, or additional finishing may be performed to enhance the appearance and functionality of the printed object.
-### Name: E kamalesh
-### Register Number:212222100019
 
-## Result:
-### Thus the simulation on the FDM process is completed & prototyping process is studied.
+Name: E kamalesh
+Register Number: 212222100019
+Result:
+Thus the simulation on the FDM process is completed & prototyping process is studied.
