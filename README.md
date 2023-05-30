@@ -15,7 +15,8 @@
 ## OUTPUT:
 ## Step 1:
 ## Base:
-image
+![241382384-448c35bd-9d21-4009-b03d-bb12db610d3a](https://github.com/kamalesh2509/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120444689/fbdb59c8-5a0c-46dc-8830-2db84c64ac23)
+
 
 ## Explanation:
 In Fused Deposition Modeling (FDM), the build platform is an essential component of the 3D printer. It serves as the foundation on which the object being printed is constructed layer by layer. The build platform needs to be sturdy and properly leveled to ensure accurate and consistent printing.
@@ -28,7 +29,9 @@ The foam base may also help with leveling the build platform by providing a soft
 
 ## Step 2:
 ## Extruder:
-image
+![241382466-17d14ab3-51af-45e2-bdb3-43077ab6de4d](https://github.com/kamalesh2509/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120444689/936da3f5-f6fa-4716-a2bb-97051792352c)
+
+
 
 ## Explanation:
 In the Fused Deposition Modeling (FDM) process, the extrusion nozzle and extrusion head are integral parts of the 3D printer. They play a crucial role in depositing the molten filament material layer by layer to create the printed object. Here's a breakdown of their functions:
@@ -59,7 +62,10 @@ In some 3D printers, especially those that print with materials requiring active
 
 ## Step 3:
 ## Material Spool:
-image
+  ![241382521-ad0c8318-d097-47a0-b3d7-c30ce285ff9c](https://github.com/kamalesh2509/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120444689/3317be99-8c20-4d75-8e16-d1a04d09a6fd)
+
+  
+  
 
 ## Explanation:
 In Fused Deposition Modeling (FDM) process, the "build material spool" refers to the spool or reel that holds the filament material used for printing.
@@ -74,7 +80,10 @@ It's important to properly handle and store the filament spools to protect them 
 
 ## Step 4:
 ## Filament:
-image
+
+![Uploading 241382627-73055eb5-f766-4b99-81d9-8965596f061e.png…]()
+
+
 
 ## Explanation:
 In the Fused Deposition Modeling (FDM) process, filament refers to the material that is used as the feedstock for 3D printing. It is a long, thin strand of thermoplastic material that is typically wound onto a spool.
@@ -85,7 +94,10 @@ Filament is loaded into the 3D printer's extruder assembly, where it is fed into
 
 ## Step 5:
 ## Start Process:
-image
+
+![241382774-17361f53-6790-4105-8af1-c97b357a8856](https://github.com/kamalesh2509/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120444689/d79ff406-189e-4238-83ae-f6757f8b08dd)
+
+
 
 ## Explanation:
 ## Start the printing process:
@@ -102,7 +114,9 @@ If the model has overhangs or complex geometries that require support, the print
 
 ## Step 6:
 ## Stop Process:
-WhatsApp Image 2023-05-27 at 16 18 05
+![241382945-f18bd10b-7acb-45e3-8c13-2ac4a21c5baf](https://github.com/kamalesh2509/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120444689/d3c51afd-4fe5-497d-bcd6-b69c338b980c)
+
+
 
 ## Explanation:
 ## Cool down and remove support:
