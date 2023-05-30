@@ -80,8 +80,9 @@ It's important to properly handle and store the filament spools to protect them 
 
 ## Step 4:
 ## Filament:
+![241382627-73055eb5-f766-4b99-81d9-8965596f061e](https://github.com/kamalesh2509/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/120444689/7c5d92fd-628c-408b-a7a3-3cbc9b0210c8)
 
-![Uploading 241382627-73055eb5-f766-4b99-81d9-8965596f061e.png…]()
+
 
 
 
